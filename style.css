@@ -20,10 +20,12 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+
 }
 
 .name {
-    fill: #2F2F3D;
+    fill: #3B4C784D;
+
 }
 
 .blobs path:nth-child(1) {
